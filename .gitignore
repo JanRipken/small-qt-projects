@@ -1,0 +1,50 @@
+# Ignoriere alle build-Verzeichnisse in den Unterverzeichnissen
+build-*/
+
+# Ignoriere alle MOC-Dateien (Meta-Object Compiler)
+*.moc
+
+# Ignoriere alle QRC-Dateien (Qt Resource Compiler)
+*.qrc
+
+# Ignoriere alle UI-Dateien (Qt Designer UI)
+*.ui
+
+# Ignoriere alle automatisch generierten CMake-Dateien (falls du CMake verwendest)
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Ignoriere alle temporären Dateien und Verzeichnisse
+*.swp
+*.swo
+*.tmp
+*.log
+
+# Ignoriere die Qt Creator spezifischen Projektdateien
+*.user
+*.user.*
+*.pro.user
+*.pro.user.*
+
+# Ignoriere Konfigurationsdateien des Qt-Compilers
+*.qmake.stash
+*.qmake.cache
+
+# Ignoriere alle von Qt generierten Dateien
+*.qmlc
+*.rcc
+*.qmlc
+*.qph
+
+# Ignoriere .DS_Store-Dateien (macOS)
+.DS_Store
+
+# Ignoriere Thumbs.db-Dateien (Windows)
+Thumbs.db
+
+# Ignoriere alle anderen versteckten Verzeichnisse und Dateien
+.*
+!/.gitignore
+!/.git/
