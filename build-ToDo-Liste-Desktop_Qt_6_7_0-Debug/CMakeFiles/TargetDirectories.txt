@@ -1,0 +1,9 @@
+/home/jan/[1] SeidrTeranis/Allgemeine Projekte/programming/cpp/qt/allgemeine-projekte/build-ToDo-Liste-Desktop_Qt_6_7_0-Debug/CMakeFiles/ToDo-Liste.dir
+/home/jan/[1] SeidrTeranis/Allgemeine Projekte/programming/cpp/qt/allgemeine-projekte/build-ToDo-Liste-Desktop_Qt_6_7_0-Debug/CMakeFiles/edit_cache.dir
+/home/jan/[1] SeidrTeranis/Allgemeine Projekte/programming/cpp/qt/allgemeine-projekte/build-ToDo-Liste-Desktop_Qt_6_7_0-Debug/CMakeFiles/rebuild_cache.dir
+/home/jan/[1] SeidrTeranis/Allgemeine Projekte/programming/cpp/qt/allgemeine-projekte/build-ToDo-Liste-Desktop_Qt_6_7_0-Debug/CMakeFiles/list_install_components.dir
+/home/jan/[1] SeidrTeranis/Allgemeine Projekte/programming/cpp/qt/allgemeine-projekte/build-ToDo-Liste-Desktop_Qt_6_7_0-Debug/CMakeFiles/install.dir
+/home/jan/[1] SeidrTeranis/Allgemeine Projekte/programming/cpp/qt/allgemeine-projekte/build-ToDo-Liste-Desktop_Qt_6_7_0-Debug/CMakeFiles/install/local.dir
+/home/jan/[1] SeidrTeranis/Allgemeine Projekte/programming/cpp/qt/allgemeine-projekte/build-ToDo-Liste-Desktop_Qt_6_7_0-Debug/CMakeFiles/install/strip.dir
+/home/jan/[1] SeidrTeranis/Allgemeine Projekte/programming/cpp/qt/allgemeine-projekte/build-ToDo-Liste-Desktop_Qt_6_7_0-Debug/CMakeFiles/ToDo-Liste_autogen_timestamp_deps.dir
+/home/jan/[1] SeidrTeranis/Allgemeine Projekte/programming/cpp/qt/allgemeine-projekte/build-ToDo-Liste-Desktop_Qt_6_7_0-Debug/CMakeFiles/ToDo-Liste_autogen.dir
