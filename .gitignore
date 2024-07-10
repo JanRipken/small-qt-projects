@@ -7,8 +7,6 @@ build-*/
 # Ignoriere alle QRC-Dateien (Qt Resource Compiler)
 *.qrc
 
-# Ignoriere alle UI-Dateien (Qt Designer UI)
-*.ui
 
 # Ignoriere alle automatisch generierten CMake-Dateien (falls du CMake verwendest)
 CMakeFiles/
